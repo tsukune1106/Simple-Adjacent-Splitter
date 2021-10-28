@@ -1,0 +1,8 @@
+{
+  "name": "@tractive/simple-adjacent-splitter",
+  "version": "1.0.0",
+  "description": "Simple function of rearranging an array where no adjacent(similar) item are next to each other.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
