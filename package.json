@@ -1,8 +1,24 @@
 {
-  "name": "@tractive/simple-adjacent-splitter",
-  "version": "1.0.0",
+  "name": "simple-adjacent-splitter",
+  "version": "1.0.1",
   "description": "Simple function of rearranging an array where no adjacent(similar) item are next to each other.",
+  "keywords": [
+    "javascript",
+    "simple",
+    "adjacent"
+  ],
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsukune1106/Simple-Adjacent-Splitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tsukune1106/Simple-Adjacent-Splitter/issues"
+  },
+  "homepage": "https://github.com/tsukune1106/Simple-Adjacent-Splitter#readme"
 }
